@@ -1,4 +1,4 @@
-import React, { Suspense, useMemo } from 'react';
+import React, { Suspense, memo, useMemo } from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 import { createTheme, CssBaseline, LinearProgress, ThemeProvider, useMediaQuery } from '@material-ui/core';
@@ -88,4 +88,4 @@ const App = () => {
   );
 }
 
-export default App;
+export default memo(App);
