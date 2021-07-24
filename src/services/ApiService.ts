@@ -17,8 +17,8 @@ export class ApiService {
 
     static async getTrendingRepository(): Promise<IRepository[]> {
         try {
-            // return await (await fetch(`${ApiService.API_BASE_URL}/repositories`, { mode: 'no-cors' })).json();
-            return await Promise.resolve(repoList);
+            return await (await fetch(`${ApiService.API_BASE_URL}/repositories`)).json();
+            // return await Promise.resolve(repoList);
         } catch (error) {
             throw error;
         }
@@ -26,8 +26,8 @@ export class ApiService {
 
     static async getTrendingDevelopers(): Promise<IDeveloper[]> {
         try {
-            // return await (await fetch(`${ApiService.API_BASE_URL}/developers`, { mode: 'no-cors' })).json();
-            return await Promise.resolve(devList);
+            return await (await fetch(`${ApiService.API_BASE_URL}/developers`, { mode: 'no-cors' })).json();
+            // return await Promise.resolve(devList);
         } catch (error) {
             throw error;
         }
