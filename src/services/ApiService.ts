@@ -11,7 +11,7 @@ export class ApiService {
      * @description API Base URL
      * @returns api base URL
      */
-    private static get API_BASE_URL() {
+    static get API_BASE_URL() {
         return `https://gh-trending-api.herokuapp.com`;
     }
 
