@@ -15,9 +15,11 @@ export class ApiService {
         return `https://gh-trending-api.herokuapp.com`;
     }
 
-    static async getTrendingRepository(): Promise<IRepository[]> {
+    static async getTrendingRepository() {
         try {
-            return await (await fetch(`${ApiService.API_BASE_URL}/repositories`, { mode: 'no-cors' })).json();
+            const headers = new Headers();
+            headers.append('Accept', 'application/json');
+            return await (await fetch(`${ApiService.API_BASE_URL}/repositories`, { headers, mode: 'no-cors' })).json();
             // return await Promise.resolve(repoList);
         } catch (error) {
             throw error;

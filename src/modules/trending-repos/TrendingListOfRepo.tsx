@@ -1,8 +1,9 @@
-import React, { FC, lazy, memo } from "react";
+import React, { FC, lazy, memo, useEffect } from "react";
 import { Box, Divider, LinearProgress, List } from "@material-ui/core";
 import { useQuery } from "react-query";
 import { IRepository } from "./Repository.model";
 import { ApiService } from "../../services/ApiService";
+import { useState } from "react";
 
 // Lazy loaded component
 const TrendingRepoListItem = lazy(() => import("./TrendingRepoListItem"));
@@ -15,19 +16,32 @@ interface IProps {
 /**
  * @author Istiaque Siddiqi
  */
-const TrendingListOfRepo: FC<IProps> = props => {
-    const defaultRepoList: IRepository[] = [];
-    const { isLoading, error, data = defaultRepoList, status } = useQuery<IRepository[] | undefined, Error | undefined>('trendingRep', async () => await ApiService.getTrendingRepository());
+const TrendingListOfRepo = (props: IProps) => {
+    const [data, setData] = useState<any>([]);
+    const [isLoading, setLoading] = useState(false);
+
+    // const { isLoading, error, data = [], status } = useQuery<IRepository[], Error>('trendingRepo', ApiService.getTrendingRepository);
+
+    useEffect(() => {
+        (async () => {
+            try {
+                setLoading(true);
+            setData(await ApiService.getTrendingRepository());
+            } finally {
+                setLoading(false);
+            }
+        })()
+    }, []);
 
     if(isLoading) return <LinearProgress color="secondary" />
 
     return (
         <PageFragment subHeadingText="See what the GitHub community is most excited about today.">
-            {
+            {/* {
                 error?.message && (
                     <Text mt={2} fontSize="1rem">{error.message}</Text>
                 )
-            }
+            } */}
             <List component="ul" aria-label="trending list" disablePadding>
                 {data.map((eachRepository: IRepository) => {
                     return (

@@ -14,7 +14,7 @@ interface IProps { };
 /**
  * @author Istiaque Siddiqi
  */
-const TrendingListOfDev: FC<IProps> = props => {
+const TrendingListOfDev = (props: IProps) => {
     const { isLoading, error, data = [], status } = useQuery<IDeveloper[], Error>('trendingDev', ApiService.getTrendingDevelopers);
     
     // const repoList: IDeveloper[] = [];
