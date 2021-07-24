@@ -1,4 +1,4 @@
-import { IRepository } from "../modules/trending-repos/Repository.model";
+// import { IRepository } from "../modules/trending-repos/Repository.model";
 import { IDeveloper } from "../modules/trending-devs/Developer.model";
 
 /**

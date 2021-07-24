@@ -16,7 +16,7 @@ interface IProps {
  * @author Istiaque Siddiqi
  */
 const TrendingListOfRepo = (props: IProps) => {
-    const { isLoading, error, data = [], status } = useQuery<IRepository[], Error>('trendingRepo', ApiService.getTrendingRepository);
+    const { isLoading, error, data = [] } = useQuery<IRepository[], Error>('trendingRepo', ApiService.getTrendingRepository);
 
     if (isLoading) return <LinearProgress color="secondary" />
 
