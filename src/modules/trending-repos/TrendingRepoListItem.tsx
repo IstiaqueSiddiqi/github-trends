@@ -1,4 +1,4 @@
-import React, { FC, lazy, memo } from "react";
+import React, { lazy, memo } from "react";
 import { Avatar, Box, createStyles, Link, makeStyles, Theme } from "@material-ui/core";
 import AvatarGroup from '@material-ui/lab/AvatarGroup';
 import StarOutlineIcon from '@material-ui/icons/StarOutline';
@@ -26,7 +26,7 @@ interface IProps {
 /**
  * @author Istiaque Siddiqi
  */
-const TrendingRepoListItem: FC<IProps> = props => {
+const TrendingRepoListItem = (props: IProps) => {
     const classes = useStyles();
     const { repository: { repositoryName, description, language, totalStars, forks, starsSince, builtBy } } = props;
 

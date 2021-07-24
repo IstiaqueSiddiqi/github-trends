@@ -1,4 +1,4 @@
-import React, { FC, lazy, memo } from "react";
+import React, { lazy, memo } from "react";
 import { Box, Divider, LinearProgress, List } from "@material-ui/core";
 import { useQuery } from "react-query";
 import { IDeveloper } from "./Developer.model";

@@ -1,4 +1,4 @@
-import React, { FC, lazy, memo } from "react";
+import React, { lazy, memo } from "react";
 import { Avatar, Box, Grid, Link } from "@material-ui/core";
 import { IDeveloper } from "./Developer.model";
 import { GitRepoIcon, PopularRepoIcon } from '../../components/Icons';
@@ -15,7 +15,7 @@ interface IProps {
 /**
  * @author Istiaque Siddiqi
  */
-const TrendingDevListItem: FC<IProps> = props => {
+const TrendingDevListItem = (props: IProps) => {
     const { developer: { rank, username, name, avatar, popularRepository } } = props;
 
     return (
