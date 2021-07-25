@@ -13,6 +13,6 @@ interface IProps {
 /**
  * @author Istiaque Siddiqi
  */
-const Text: FC<IProps> = ({ children = '', color = "#8b949e", fontSize, fontWeight, lineHeight, mt }) => <Box mt={mt} color={color} fontSize={fontSize} fontWeight={fontWeight} lineHeight={lineHeight}>{children}</Box>
+const Text: FC<IProps> = ({ children = '', color = "#8b949e", fontSize, fontWeight, lineHeight, mt }) => <Box component="span" mt={mt} color={color} fontSize={fontSize} fontWeight={fontWeight} lineHeight={lineHeight}>{children}</Box>
 
 export default memo(Text);
