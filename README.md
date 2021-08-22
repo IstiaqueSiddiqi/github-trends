@@ -2,9 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Working URL
-[https://github-trend.herokuapp.com/](https://github-trend.herokuapp.com/)
-
 ## Available Scripts
 
 In the project directory, you can run:
