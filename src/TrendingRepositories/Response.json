@@ -1,0 +1,902 @@
+[
+    {
+        "rank": 1,
+        "username": "ManimCommunity",
+        "repositoryName": "manim",
+        "url": "https://github.com/ManimCommunity/manim",
+        "description": "A community-maintained Python framework for creating mathematical animations.",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "totalStars": 5839,
+        "forks": 512,
+        "starsSince": 851,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "3b1b",
+                "url": "https://github.com/3b1b",
+                "avatar": "https://avatars.githubusercontent.com/u/11601040?s=40&v=4"
+            },
+            {
+                "username": "leotrs",
+                "url": "https://github.com/leotrs",
+                "avatar": "https://avatars.githubusercontent.com/u/1096704?s=40&v=4"
+            },
+            {
+                "username": "eulertour",
+                "url": "https://github.com/eulertour",
+                "avatar": "https://avatars.githubusercontent.com/u/43117506?s=40&v=4"
+            },
+            {
+                "username": "naveen521kk",
+                "url": "https://github.com/naveen521kk",
+                "avatar": "https://avatars.githubusercontent.com/u/49693820?s=40&v=4"
+            },
+            {
+                "username": "bhbr",
+                "url": "https://github.com/bhbr",
+                "avatar": "https://avatars.githubusercontent.com/u/13440601?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 2,
+        "username": "public-apis",
+        "repositoryName": "public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "totalStars": 151731,
+        "forks": 17253,
+        "starsSince": 1590,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "davemachado",
+                "url": "https://github.com/davemachado",
+                "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4"
+            },
+            {
+                "username": "matheusfelipeog",
+                "url": "https://github.com/matheusfelipeog",
+                "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4"
+            },
+            {
+                "username": "jbrooksuk",
+                "url": "https://github.com/jbrooksuk",
+                "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4"
+            },
+            {
+                "username": "mikestreety",
+                "url": "https://github.com/mikestreety",
+                "avatar": "https://avatars.githubusercontent.com/u/354085?s=40&v=4"
+            },
+            {
+                "username": "marekdano",
+                "url": "https://github.com/marekdano",
+                "avatar": "https://avatars.githubusercontent.com/u/1914165?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 3,
+        "username": "papers-we-love",
+        "repositoryName": "papers-we-love",
+        "url": "https://github.com/papers-we-love/papers-we-love",
+        "description": "Papers from the computer science community to read and discuss.",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "totalStars": 47506,
+        "forks": 4130,
+        "starsSince": 435,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "zeeshanlakhani",
+                "url": "https://github.com/zeeshanlakhani",
+                "avatar": "https://avatars.githubusercontent.com/u/202820?s=40&v=4"
+            },
+            {
+                "username": "DarrenN",
+                "url": "https://github.com/DarrenN",
+                "avatar": "https://avatars.githubusercontent.com/u/215030?s=40&v=4"
+            },
+            {
+                "username": "jeremyheiler",
+                "url": "https://github.com/jeremyheiler",
+                "avatar": "https://avatars.githubusercontent.com/u/183600?s=40&v=4"
+            },
+            {
+                "username": "newsomc",
+                "url": "https://github.com/newsomc",
+                "avatar": "https://avatars.githubusercontent.com/u/79253?s=40&v=4"
+            },
+            {
+                "username": "bowmanb",
+                "url": "https://github.com/bowmanb",
+                "avatar": "https://avatars.githubusercontent.com/u/420078?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 4,
+        "username": "babysor",
+        "repositoryName": "Realtime-Voice-Clone-Chinese",
+        "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+        "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "totalStars": 1955,
+        "forks": 163,
+        "starsSince": 780,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "babysor",
+                "url": "https://github.com/babysor",
+                "avatar": "https://avatars.githubusercontent.com/u/7423248?s=40&v=4"
+            },
+            {
+                "username": "oceanarium",
+                "url": "https://github.com/oceanarium",
+                "avatar": "https://avatars.githubusercontent.com/u/12797292?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 5,
+        "username": "tenacityteam",
+        "repositoryName": "tenacity",
+        "url": "https://github.com/tenacityteam/tenacity",
+        "description": "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "totalStars": 6050,
+        "forks": 253,
+        "starsSince": 521,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "Paul-Licameli",
+                "url": "https://github.com/Paul-Licameli",
+                "avatar": "https://avatars.githubusercontent.com/u/11670369?s=40&v=4"
+            },
+            {
+                "username": "JamesCrook",
+                "url": "https://github.com/JamesCrook",
+                "avatar": "https://avatars.githubusercontent.com/u/1621525?s=40&v=4"
+            },
+            {
+                "username": "lllucius",
+                "url": "https://github.com/lllucius",
+                "avatar": "https://avatars.githubusercontent.com/u/7347848?s=40&v=4"
+            },
+            {
+                "username": "SteveDaulton",
+                "url": "https://github.com/SteveDaulton",
+                "avatar": "https://avatars.githubusercontent.com/u/11681097?s=40&v=4"
+            },
+            {
+                "username": "DavidBailes",
+                "url": "https://github.com/DavidBailes",
+                "avatar": "https://avatars.githubusercontent.com/u/11887021?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 6,
+        "username": "flutter",
+        "repositoryName": "flutter",
+        "url": "https://github.com/flutter/flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "totalStars": 128187,
+        "forks": 18388,
+        "starsSince": 385,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "engine-flutter-autoroll",
+                "url": "https://github.com/engine-flutter-autoroll",
+                "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&v=4"
+            },
+            {
+                "username": "abarth",
+                "url": "https://github.com/abarth",
+                "avatar": "https://avatars.githubusercontent.com/u/112007?s=40&v=4"
+            },
+            {
+                "username": "Hixie",
+                "url": "https://github.com/Hixie",
+                "avatar": "https://avatars.githubusercontent.com/u/551196?s=40&v=4"
+            },
+            {
+                "username": "jonahwilliams",
+                "url": "https://github.com/jonahwilliams",
+                "avatar": "https://avatars.githubusercontent.com/u/8975114?s=40&v=4"
+            },
+            {
+                "username": "HansMuller",
+                "url": "https://github.com/HansMuller",
+                "avatar": "https://avatars.githubusercontent.com/u/1377460?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 7,
+        "username": "praetorian-inc",
+        "repositoryName": "gokart",
+        "url": "https://github.com/praetorian-inc/gokart",
+        "description": "A static analysis tool for securing Go code",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "totalStars": 1220,
+        "forks": 42,
+        "starsSince": 646,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "praetorian-harry",
+                "url": "https://github.com/praetorian-harry",
+                "avatar": "https://avatars.githubusercontent.com/u/58926491?s=40&v=4"
+            },
+            {
+                "username": "jessesomerville",
+                "url": "https://github.com/jessesomerville",
+                "avatar": "https://avatars.githubusercontent.com/u/41651270?s=40&v=4"
+            },
+            {
+                "username": "trumankain",
+                "url": "https://github.com/trumankain",
+                "avatar": "https://avatars.githubusercontent.com/u/42022383?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 8,
+        "username": "Lux-AI-Challenge",
+        "repositoryName": "Lux-Design-2021",
+        "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
+        "description": "Home to the design and engine of the Lux AI Challenge Season 1",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "totalStars": 193,
+        "forks": 27,
+        "starsSince": 130,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "StoneT2000",
+                "url": "https://github.com/StoneT2000",
+                "avatar": "https://avatars.githubusercontent.com/u/35373228?s=40&v=4"
+            },
+            {
+                "username": "holypegasus",
+                "url": "https://github.com/holypegasus",
+                "avatar": "https://avatars.githubusercontent.com/u/3527954?s=40&v=4"
+            },
+            {
+                "username": "LittleAlvinMaker",
+                "url": "https://github.com/LittleAlvinMaker",
+                "avatar": "https://avatars.githubusercontent.com/u/28755321?s=40&v=4"
+            },
+            {
+                "username": "djkeyes",
+                "url": "https://github.com/djkeyes",
+                "avatar": "https://avatars.githubusercontent.com/u/6512637?s=40&v=4"
+            },
+            {
+                "username": "Desperationis",
+                "url": "https://github.com/Desperationis",
+                "avatar": "https://avatars.githubusercontent.com/u/42013493?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 9,
+        "username": "go-sql-driver",
+        "repositoryName": "mysql",
+        "url": "https://github.com/go-sql-driver/mysql",
+        "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "totalStars": 11368,
+        "forks": 1982,
+        "starsSince": 163,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "julienschmidt",
+                "url": "https://github.com/julienschmidt",
+                "avatar": "https://avatars.githubusercontent.com/u/944947?s=40&v=4"
+            },
+            {
+                "username": "arnehormann",
+                "url": "https://github.com/arnehormann",
+                "avatar": "https://avatars.githubusercontent.com/u/1011413?s=40&v=4"
+            },
+            {
+                "username": "methane",
+                "url": "https://github.com/methane",
+                "avatar": "https://avatars.githubusercontent.com/u/199592?s=40&v=4"
+            },
+            {
+                "username": "shogo82148",
+                "url": "https://github.com/shogo82148",
+                "avatar": "https://avatars.githubusercontent.com/u/1157344?s=40&v=4"
+            },
+            {
+                "username": "cxmcc",
+                "url": "https://github.com/cxmcc",
+                "avatar": "https://avatars.githubusercontent.com/u/1209733?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 10,
+        "username": "NvChad",
+        "repositoryName": "NvChad",
+        "url": "https://github.com/NvChad/NvChad",
+        "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "totalStars": 5559,
+        "forks": 248,
+        "starsSince": 916,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "siduck76",
+                "url": "https://github.com/siduck76",
+                "avatar": "https://avatars.githubusercontent.com/u/59060246?s=40&v=4"
+            },
+            {
+                "username": "Akianonymus",
+                "url": "https://github.com/Akianonymus",
+                "avatar": "https://avatars.githubusercontent.com/u/32216346?s=40&v=4"
+            },
+            {
+                "username": "ashincoder",
+                "url": "https://github.com/ashincoder",
+                "avatar": "https://avatars.githubusercontent.com/u/83629316?s=40&v=4"
+            },
+            {
+                "username": "Vanderscycle",
+                "url": "https://github.com/Vanderscycle",
+                "avatar": "https://avatars.githubusercontent.com/u/52706578?s=40&v=4"
+            },
+            {
+                "username": "G-Rowell",
+                "url": "https://github.com/G-Rowell",
+                "avatar": "https://avatars.githubusercontent.com/u/3367398?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 11,
+        "username": "LiveOverflow",
+        "repositoryName": "ctf-screenshotter",
+        "url": "https://github.com/LiveOverflow/ctf-screenshotter",
+        "description": "a CTF web challenge about making screenshots",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "totalStars": 127,
+        "forks": 14,
+        "starsSince": 81,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "LiveOverflow",
+                "url": "https://github.com/LiveOverflow",
+                "avatar": "https://avatars.githubusercontent.com/u/12161158?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 12,
+        "username": "wuyouzhuguli",
+        "repositoryName": "SpringAll",
+        "url": "https://github.com/wuyouzhuguli/SpringAll",
+        "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "totalStars": 21398,
+        "forks": 6408,
+        "starsSince": 99,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "wuyouzhuguli",
+                "url": "https://github.com/wuyouzhuguli",
+                "avatar": "https://avatars.githubusercontent.com/u/16661027?s=40&v=4"
+            },
+            {
+                "username": "xianqiangzhao",
+                "url": "https://github.com/xianqiangzhao",
+                "avatar": "https://avatars.githubusercontent.com/u/26996795?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 13,
+        "username": "DIGITALCRIMINAL",
+        "repositoryName": "OnlyFans",
+        "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+        "description": "Scrape all the media from an OnlyFans account - Updated regularly",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "totalStars": 1998,
+        "forks": 309,
+        "starsSince": 89,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "DIGITALCRIMINAL",
+                "url": "https://github.com/DIGITALCRIMINAL",
+                "avatar": "https://avatars.githubusercontent.com/u/21285176?s=40&v=4"
+            },
+            {
+                "username": "aboredpervert",
+                "url": "https://github.com/aboredpervert",
+                "avatar": "https://avatars.githubusercontent.com/u/62782488?s=40&v=4"
+            },
+            {
+                "username": "ecchiecchi0",
+                "url": "https://github.com/ecchiecchi0",
+                "avatar": "https://avatars.githubusercontent.com/u/62401845?s=40&v=4"
+            },
+            {
+                "username": "helopy",
+                "url": "https://github.com/helopy",
+                "avatar": "https://avatars.githubusercontent.com/u/56813399?s=40&v=4"
+            },
+            {
+                "username": "banillasolt",
+                "url": "https://github.com/banillasolt",
+                "avatar": "https://avatars.githubusercontent.com/u/56203079?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 14,
+        "username": "swisskyrepo",
+        "repositoryName": "PayloadsAllTheThings",
+        "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "totalStars": 29429,
+        "forks": 8062,
+        "starsSince": 427,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "swisskyrepo",
+                "url": "https://github.com/swisskyrepo",
+                "avatar": "https://avatars.githubusercontent.com/u/12152583?s=40&v=4"
+            },
+            {
+                "username": "noraj",
+                "url": "https://github.com/noraj",
+                "avatar": "https://avatars.githubusercontent.com/u/16578570?s=40&v=4"
+            },
+            {
+                "username": "cyber-niz",
+                "url": "https://github.com/cyber-niz",
+                "avatar": "https://avatars.githubusercontent.com/u/25560738?s=40&v=4"
+            },
+            {
+                "username": "lanjelot",
+                "url": "https://github.com/lanjelot",
+                "avatar": "https://avatars.githubusercontent.com/u/214154?s=40&v=4"
+            },
+            {
+                "username": "marcan2020",
+                "url": "https://github.com/marcan2020",
+                "avatar": "https://avatars.githubusercontent.com/u/15129756?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 15,
+        "username": "vandadnp",
+        "repositoryName": "flutter-tips-and-tricks",
+        "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+        "description": "A Collection of Flutter and Dart Tips and Tricks",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "totalStars": 702,
+        "forks": 78,
+        "starsSince": 146,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "vandadnp",
+                "url": "https://github.com/vandadnp",
+                "avatar": "https://avatars.githubusercontent.com/u/759524?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 16,
+        "username": "spring-projects",
+        "repositoryName": "spring-authorization-server",
+        "url": "https://github.com/spring-projects/spring-authorization-server",
+        "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "totalStars": 2502,
+        "forks": 445,
+        "starsSince": 164,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "jgrandja",
+                "url": "https://github.com/jgrandja",
+                "avatar": "https://avatars.githubusercontent.com/u/10884212?s=40&v=4"
+            },
+            {
+                "username": "sjohnr",
+                "url": "https://github.com/sjohnr",
+                "avatar": "https://avatars.githubusercontent.com/u/5248162?s=40&v=4"
+            },
+            {
+                "username": "Kehrlann",
+                "url": "https://github.com/Kehrlann",
+                "avatar": "https://avatars.githubusercontent.com/u/5676779?s=40&v=4"
+            },
+            {
+                "username": "rwinch",
+                "url": "https://github.com/rwinch",
+                "avatar": "https://avatars.githubusercontent.com/u/362503?s=40&v=4"
+            },
+            {
+                "username": "anoopgarlapati",
+                "url": "https://github.com/anoopgarlapati",
+                "avatar": "https://avatars.githubusercontent.com/u/12255420?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 17,
+        "username": "open-metadata",
+        "repositoryName": "OpenMetadata",
+        "url": "https://github.com/open-metadata/OpenMetadata",
+        "description": "Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "totalStars": 262,
+        "forks": 12,
+        "starsSince": 142,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "sureshms",
+                "url": "https://github.com/sureshms",
+                "avatar": "https://avatars.githubusercontent.com/u/1417689?s=40&v=4"
+            },
+            {
+                "username": "ayush-shah",
+                "url": "https://github.com/ayush-shah",
+                "avatar": "https://avatars.githubusercontent.com/u/40225091?s=40&v=4"
+            },
+            {
+                "username": "darth-coder00",
+                "url": "https://github.com/darth-coder00",
+                "avatar": "https://avatars.githubusercontent.com/u/86726556?s=40&v=4"
+            },
+            {
+                "username": "Sachin-chaurasiya",
+                "url": "https://github.com/Sachin-chaurasiya",
+                "avatar": "https://avatars.githubusercontent.com/u/59080942?s=40&v=4"
+            },
+            {
+                "username": "shahsank3t",
+                "url": "https://github.com/shahsank3t",
+                "avatar": "https://avatars.githubusercontent.com/u/6761317?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 18,
+        "username": "ANYbotics",
+        "repositoryName": "grid_map",
+        "url": "https://github.com/ANYbotics/grid_map",
+        "description": "Universal grid map library for mobile robotic mapping",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "totalStars": 1378,
+        "forks": 564,
+        "starsSince": 63,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "pfankhauser",
+                "url": "https://github.com/pfankhauser",
+                "avatar": "https://avatars.githubusercontent.com/u/2306025?s=40&v=4"
+            },
+            {
+                "username": "martiwer",
+                "url": "https://github.com/martiwer",
+                "avatar": "https://avatars.githubusercontent.com/u/2513562?s=40&v=4"
+            },
+            {
+                "username": "remod",
+                "url": "https://github.com/remod",
+                "avatar": "https://avatars.githubusercontent.com/u/3808643?s=40&v=4"
+            },
+            {
+                "username": "mktk1117",
+                "url": "https://github.com/mktk1117",
+                "avatar": "https://avatars.githubusercontent.com/u/12872984?s=40&v=4"
+            },
+            {
+                "username": "samuelba",
+                "url": "https://github.com/samuelba",
+                "avatar": "https://avatars.githubusercontent.com/u/3610764?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 19,
+        "username": "rcmaehl",
+        "repositoryName": "WhyNotWin11",
+        "url": "https://github.com/rcmaehl/WhyNotWin11",
+        "description": "Detection Script to help identify why your PC is not Windows 11 Release Ready",
+        "language": "AutoIt",
+        "languageColor": "#1C3552",
+        "totalStars": 5053,
+        "forks": 366,
+        "starsSince": 79,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "rcmaehl",
+                "url": "https://github.com/rcmaehl",
+                "avatar": "https://avatars.githubusercontent.com/u/716581?s=40&v=4"
+            },
+            {
+                "username": "micwoj92",
+                "url": "https://github.com/micwoj92",
+                "avatar": "https://avatars.githubusercontent.com/u/45581170?s=40&v=4"
+            },
+            {
+                "username": "Oleg-Chashko",
+                "url": "https://github.com/Oleg-Chashko",
+                "avatar": "https://avatars.githubusercontent.com/u/62497891?s=40&v=4"
+            },
+            {
+                "username": "mlipok",
+                "url": "https://github.com/mlipok",
+                "avatar": "https://avatars.githubusercontent.com/u/11089482?s=40&v=4"
+            },
+            {
+                "username": "Qazy147",
+                "url": "https://github.com/Qazy147",
+                "avatar": "https://avatars.githubusercontent.com/u/86588462?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 20,
+        "username": "honzaap",
+        "repositoryName": "Systemizer",
+        "url": "https://github.com/honzaap/Systemizer",
+        "description": "A system design tool that allows you to simulate data flow of distributed systems.",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "totalStars": 877,
+        "forks": 55,
+        "starsSince": 362,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "honzaap",
+                "url": "https://github.com/honzaap",
+                "avatar": "https://avatars.githubusercontent.com/u/58147774?s=40&v=4"
+            },
+            {
+                "username": "dineshkumar12004",
+                "url": "https://github.com/dineshkumar12004",
+                "avatar": "https://avatars.githubusercontent.com/u/67814205?s=40&v=4"
+            },
+            {
+                "username": "Gbd199",
+                "url": "https://github.com/Gbd199",
+                "avatar": "https://avatars.githubusercontent.com/u/28998404?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 21,
+        "username": "labmlai",
+        "repositoryName": "annotated_deep_learning_paper_implementations",
+        "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+        "description": "🧑‍🏫Implementations/tutorials of deep learning papers with side-by-side notes📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2),🎮reinforcement learning (ppo, dqn), capsnet, distillation, etc.🧠",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "totalStars": 4536,
+        "forks": 261,
+        "starsSince": 372,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "vpj",
+                "url": "https://github.com/vpj",
+                "avatar": "https://avatars.githubusercontent.com/u/81152?s=40&v=4"
+            },
+            {
+                "username": "KeshSam",
+                "url": "https://github.com/KeshSam",
+                "avatar": "https://avatars.githubusercontent.com/u/78550290?s=40&v=4"
+            },
+            {
+                "username": "sachdevkartik",
+                "url": "https://github.com/sachdevkartik",
+                "avatar": "https://avatars.githubusercontent.com/u/77142935?s=40&v=4"
+            },
+            {
+                "username": "shakedbr",
+                "url": "https://github.com/shakedbr",
+                "avatar": "https://avatars.githubusercontent.com/u/18068305?s=40&v=4"
+            },
+            {
+                "username": "Aarsh2001",
+                "url": "https://github.com/Aarsh2001",
+                "avatar": "https://avatars.githubusercontent.com/u/65212523?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 22,
+        "username": "samuelmarina",
+        "repositoryName": "is-even",
+        "url": "https://github.com/samuelmarina/is-even",
+        "description": "Is a number even?",
+        "language": null,
+        "languageColor": null,
+        "totalStars": 949,
+        "forks": 183,
+        "starsSince": 353,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "samuelmarina",
+                "url": "https://github.com/samuelmarina",
+                "avatar": "https://avatars.githubusercontent.com/u/59328925?s=40&v=4"
+            },
+            {
+                "username": "lamergameryt",
+                "url": "https://github.com/lamergameryt",
+                "avatar": "https://avatars.githubusercontent.com/u/22660277?s=40&v=4"
+            },
+            {
+                "username": "gingerbenw",
+                "url": "https://github.com/gingerbenw",
+                "avatar": "https://avatars.githubusercontent.com/u/24570483?s=40&v=4"
+            },
+            {
+                "username": "HyperBeasty",
+                "url": "https://github.com/HyperBeasty",
+                "avatar": "https://avatars.githubusercontent.com/u/59015168?s=40&v=4"
+            },
+            {
+                "username": "SJM96",
+                "url": "https://github.com/SJM96",
+                "avatar": "https://avatars.githubusercontent.com/u/59713767?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 23,
+        "username": "SerenityOS",
+        "repositoryName": "serenity",
+        "url": "https://github.com/SerenityOS/serenity",
+        "description": "The Serenity Operating System🐞",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "totalStars": 14908,
+        "forks": 1512,
+        "starsSince": 320,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "awesomekling",
+                "url": "https://github.com/awesomekling",
+                "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&v=4"
+            },
+            {
+                "username": "linusg",
+                "url": "https://github.com/linusg",
+                "avatar": "https://avatars.githubusercontent.com/u/19366641?s=40&v=4"
+            },
+            {
+                "username": "alimpfard",
+                "url": "https://github.com/alimpfard",
+                "avatar": "https://avatars.githubusercontent.com/u/14001776?s=40&v=4"
+            },
+            {
+                "username": "gunnarbeutner",
+                "url": "https://github.com/gunnarbeutner",
+                "avatar": "https://avatars.githubusercontent.com/u/388571?s=40&v=4"
+            },
+            {
+                "username": "bgianfo",
+                "url": "https://github.com/bgianfo",
+                "avatar": "https://avatars.githubusercontent.com/u/1212?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 24,
+        "username": "armosec",
+        "repositoryName": "kubescape",
+        "url": "https://github.com/armosec/kubescape",
+        "description": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "totalStars": 468,
+        "forks": 17,
+        "starsSince": 375,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "BenHirschbergCa",
+                "url": "https://github.com/BenHirschbergCa",
+                "avatar": "https://avatars.githubusercontent.com/u/59160382?s=40&v=4"
+            },
+            {
+                "username": "dwertent",
+                "url": "https://github.com/dwertent",
+                "avatar": "https://avatars.githubusercontent.com/u/64066841?s=40&v=4"
+            },
+            {
+                "username": "Daniel-GrunbergerCA",
+                "url": "https://github.com/Daniel-GrunbergerCA",
+                "avatar": "https://avatars.githubusercontent.com/u/84905812?s=40&v=4"
+            }
+        ]
+    },
+    {
+        "rank": 25,
+        "username": "visenger",
+        "repositoryName": "awesome-mlops",
+        "url": "https://github.com/visenger/awesome-mlops",
+        "description": "A curated list of references for MLOps",
+        "language": null,
+        "languageColor": null,
+        "totalStars": 5749,
+        "forks": 818,
+        "starsSince": 147,
+        "since": "daily",
+        "builtBy": [
+            {
+                "username": "visenger",
+                "url": "https://github.com/visenger",
+                "avatar": "https://avatars.githubusercontent.com/u/2014749?s=40&v=4"
+            },
+            {
+                "username": "stefanodallapalma",
+                "url": "https://github.com/stefanodallapalma",
+                "avatar": "https://avatars.githubusercontent.com/u/18099827?s=40&v=4"
+            },
+            {
+                "username": "naiiytom",
+                "url": "https://github.com/naiiytom",
+                "avatar": "https://avatars.githubusercontent.com/u/25026003?s=40&v=4"
+            },
+            {
+                "username": "bact",
+                "url": "https://github.com/bact",
+                "avatar": "https://avatars.githubusercontent.com/u/128572?s=40&v=4"
+            },
+            {
+                "username": "spekulatius",
+                "url": "https://github.com/spekulatius",
+                "avatar": "https://avatars.githubusercontent.com/u/8433587?s=40&v=4"
+            }
+        ]
+    }
+]
