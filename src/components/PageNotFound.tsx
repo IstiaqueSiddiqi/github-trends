@@ -1,14 +1,13 @@
-import React, { FC, lazy, memo } from "react";
-
-const Text  = lazy(() => import("./Text"));
+import { Box } from "@material-ui/core";
+import React, { memo } from "react";
 
 interface IProps {
 };
 
 /**
+ * @description - Fallback page for invalid page route
  * @author Istiaque Siddiqi
  */
-const PageNotFound: FC<IProps> = props => (<Text fontSize="1.25rem" mt={2}>Page Not Found</Text>);
-
+const PageNotFound = (props: IProps) => (<Box color="text.secondary" fontSize="1.25rem" mt={2}>Page Not Found</Box>);
 
 export default memo(PageNotFound);

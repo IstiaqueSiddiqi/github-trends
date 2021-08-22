@@ -1,14 +1,15 @@
 import { MenuItem, TextField } from '@material-ui/core';
-import React, { FC, memo } from 'react';
+import React, { memo } from 'react';
 
 interface IProps {
     value: string;
 };
 
 /**
+ * @description Select component .i.e. drop-down box
  * @author Istiaque Siddiqi
  */
-const SelectMenu: FC<IProps> = props => {
+const SelectMenu = (props: IProps) => {
     const { value } = props;
     return (
         <TextField

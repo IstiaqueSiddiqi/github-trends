@@ -1,7 +1,9 @@
+
 /**
+ * @description - Repository model to map response object
  * @author Istiaque Siddiqi
  */
-export interface IRepository {
+export default interface IRepository {
     rank: number;
     username: string;
     repositoryName: string;
@@ -16,10 +18,7 @@ export interface IRepository {
     builtBy: IBuiltBy[];
 };
 
-/**
- * @author Istiaque Siddiqi
- */
-export interface IBuiltBy {
+interface IBuiltBy {
     username: string;
     url: string;
     avatar: string;

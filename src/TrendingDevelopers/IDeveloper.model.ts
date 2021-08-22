@@ -1,8 +1,9 @@
 
 /**
+ * @description - Developer model to map response object
  * @author Istiaque Siddiqi
  */
-export interface IDeveloper {
+export default interface IDeveloper {
     rank: number;
     username: string;
     name: string;
@@ -12,10 +13,7 @@ export interface IDeveloper {
     popularRepository: IPopularRepository;
 };
 
-/**
- * @author Istiaque Siddiqi
- */
-export interface IPopularRepository {
+interface IPopularRepository {
     repositoryName: string | null;
     description: string | null;
     url: string | null;
