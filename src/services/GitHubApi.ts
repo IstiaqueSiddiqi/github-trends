@@ -12,7 +12,7 @@ export default class GitHubApi {
      */
     static async getTrendingRepositories() {
         try {
-            return await (await Http.get('/repositories')).data;
+            return await (await Http.get('/repos')).data;
         } catch (error) {
             throw error;
         }
@@ -24,7 +24,7 @@ export default class GitHubApi {
      */
     static async getTrendingDevelopers() {
         try {
-            return await (await Http.get('/developers')).data;
+            return await (await Http.get('/devs')).data;
         } catch (error) {
             throw error;
         }
