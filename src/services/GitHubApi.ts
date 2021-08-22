@@ -1,5 +1,4 @@
 import Http from "./Http";
-import data from '../TrendingRepositories/Response.json';
 
 /**
  * @description Utility class for GitHub APIs
@@ -13,8 +12,7 @@ export default class GitHubApi {
      */
     static async getTrendingRepositories() {
         try {
-            // return await (await Http.get('/repositories')).data;
-            return Promise.resolve(data)
+            return await (await Http.get('/repositories')).data;
         } catch (error) {
             throw error;
         }
